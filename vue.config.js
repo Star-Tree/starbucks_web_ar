@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/2022_12_starbucks_web_ar/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/starbucks_web_ar/' : '/',
 
   css: {
     loaderOptions: {
